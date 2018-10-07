@@ -1,0 +1,6 @@
+*.tex
+*.aux
+*.log
+*.gz
+*.swp
+*.out
