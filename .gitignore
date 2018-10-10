@@ -4,3 +4,4 @@
 *.gz
 *.swp
 *.out
+private__*
