@@ -1,6 +1,8 @@
 ## My Solutions to Select Problems of The Elements of Statistical Learning
 This repo contains my solutions to select problems of the book 'The Elements of Statistical Learning' by Profs. Hastie, Tibshirani, and Friedman. See the table below for the list of problems I have solved thus far:
 
+(Oh, and please consider a Star if you find this useful!)
+
 |Filename       |Problems Solved            |
 |---------------|---------------------------|
 |Chapter 2.pdf  |2.2-2.5, 2.7, 2.9          |
